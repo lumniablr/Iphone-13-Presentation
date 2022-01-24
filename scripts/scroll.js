@@ -32,4 +32,5 @@ const ScrollFunc = () => {
         })
     })
 }
+console.log('scroll render')
 ScrollFunc()

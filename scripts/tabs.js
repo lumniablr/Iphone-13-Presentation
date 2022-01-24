@@ -4,7 +4,7 @@ const TabsFunc = () => {
     const tabPrice = document.querySelector('.card-details__price')
     const tabImage = document.querySelector('.card__image_item')
     const changeTitle = document.getElementsByTagName('title')
-    console.log(changeTitle)
+
 
     const tabOptions = [
         {
@@ -55,4 +55,5 @@ const TabsFunc = () => {
     })
     changeContent(0)
 }
+
 TabsFunc()

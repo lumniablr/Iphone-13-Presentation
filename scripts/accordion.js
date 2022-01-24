@@ -18,4 +18,5 @@ const Accordion = () => {
         })
     })
 }
+
 Accordion()
